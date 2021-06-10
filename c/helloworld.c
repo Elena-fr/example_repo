@@ -1,4 +1,5 @@
 /* Add a comment */
+/* ... and an other one */
 
 #include <stdio.h>
 
